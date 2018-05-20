@@ -1,0 +1,83 @@
+
+#coursesContainer {
+    background-color: aqua;
+    width: 200px;
+    border: solid 2px gray;
+}
+
+#coursesContainer p {
+    text-align: center;
+    border-bottom: solid 2px gray;
+    padding: 5px;
+    background-color: chartreuse;
+}
+
+#coursesName ol li {
+    text-align: left;
+    list-style-type: none;
+    padding: 3px;
+    border-bottom: solid 1px gray;
+}
+
+#coursesName ol li:hover {
+    background-color: darkgrey;
+}
+
+#coursesName ol li a {
+    text-decoration: none;
+}
+
+#feedback{
+    background-color: gold;
+    border: 2px solid gray;
+    height: auto;
+}
+
+
+#feedback li {
+    list-style-type: none;
+    margin: 3px;
+}
+
+#feedbackContainerTitle{
+    background-color: chartreuse;
+    padding: 3px;
+    border-bottom: 1px solid gray;
+}
+
+.comment{
+    height: auto;
+    background-color: bisque;
+    border: 1px solid gray;
+    margin: 5px;
+}
+
+#commentContainer{
+    height: auto;
+}
+
+.commentCourseNameArea{
+
+}
+
+.commentTextArea{
+
+}
+
+.commentTextArea p{
+    word-wrap:break-word;
+}
+
+.commentLabArea{
+
+}
+
+.commentLabArea p{
+
+}
+
+#sortByCourseField{
+    display: inline;
+    float: left;
+}
+
