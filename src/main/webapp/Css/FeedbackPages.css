@@ -143,9 +143,3 @@ body {
 .commentTextArea p {
     word-wrap: break-word;
 }
-
-#footer {
-    background-color: darkseagreen;
-    margin-top: 3px;
-    height: 30px;
-}
